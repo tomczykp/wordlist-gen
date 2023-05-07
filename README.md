@@ -7,3 +7,4 @@ To customize change variables in code:
 - substites: dictionary of letters substitution
 - base_wordlist: keywords based on which wordlist will be generated
 - output_filename: file to with write generated wordlist
+- delims: delimeters with which to concatinate words in permutation
