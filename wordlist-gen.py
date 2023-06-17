@@ -3,7 +3,7 @@ from typing import List
 from itertools import permutations
 
 output_filename = "proto-wordlist.lst"
-base_wordlist = ["name", "surname", "security", "itsec", "password", "haslo"]
+base_wordlist = ["michal", "morawski", "bezpieczenstwo", "itsec", "password", "haslo"]
 delims = ["", ".", "-", "_", "+", "=", " ", "0"]
 LIMIT = 15
 numbering_limit = 10000
